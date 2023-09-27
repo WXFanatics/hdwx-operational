@@ -7,7 +7,7 @@
 ### Pre-requisites
 
 - Python HDWX has been tested on Fedora 38, CentOS 7, and Ubuntu 20.04 and 22.04. You'll need an operating system (duh), generally Linux with systemd. macOS might work as a server host with the `systemd` pacakge from [homebrew](https://brew.sh), but that's not really intended. At the time of writing this, I don't ever intend to add support for Windows, and I wouldn't recommend anyone trying (it will be very difficult).
-- Clone this repository. `git clone https://github.com/wx4stg/hdwx-operational --recursive` (*important: with the* `--recursive` *flag*) to somewhere on your computer. This can realistically be anywhere, but on everything I've done, I've always just shoved it in my home folder, `~/hdwx-operational/`. You need to clone the repository as the user you want to generate the products as. You should NOT clone the repository as root or with sudo -s or sudo git clone, unless you actually want the root user to be generating products which just seems like a bad idea to me.
+- Clone this repository. `git clone https://github.com/WXFanatics/hdwx-operational --recursive` (*important: with the* `--recursive` *flag*) to somewhere on your computer. This can realistically be anywhere, but on everything I've done, I've always just shoved it in my home folder, `~/hdwx-operational/`. You need to clone the repository as the user you want to generate the products as. You should NOT clone the repository as root or with sudo -s or sudo git clone, unless you actually want the root user to be generating products which just seems like a bad idea to me.
 
 ### Installation process
 
