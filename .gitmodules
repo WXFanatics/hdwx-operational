@@ -1,24 +1,12 @@
 [submodule "hdwx-modelplotter"]
 	path = hdwx-modelplotter
 	url = https://github.com/WXFanatics/hdwx-modelplotter.git
-[submodule "hdwx-hlma"]
-	path = hdwx-hlma
-	url = https://github.com/WXFanatics/hdwx-hlma.git
-[submodule "hdwx-adrad"]
-	path = hdwx-adrad
-	url = https://github.com/WXFanatics/hdwx-adrad.git
-[submodule "hdwx-mesonetplotter"]
-	path = hdwx-mesonetplotter
-	url = https://github.com/WXFanatics/hdwx-mesonetplotter.git
 [submodule "hdwx-mrms"]
 	path = hdwx-mrms
 	url = https://github.com/WXFanatics/hdwx-mrms.git
 [submodule "hdwx-satellite"]
 	path = hdwx-satellite
 	url = https://github.com/WXFanatics/hdwx-satellite.git
-[submodule "hdwx-tasc"]
-	path = hdwx-tasc
-	url = https://github.com/WXFanatics/hdwx-tasc.git
 [submodule "hdwx-wpcsfc"]
 	path = hdwx-noaa
 	url = https://github.com/wx4stg/hdwx-wpcsfc
